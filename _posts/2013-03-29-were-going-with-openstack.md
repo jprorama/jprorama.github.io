@@ -1,5 +1,5 @@
 ---
-title: 'we&#8217;re going with openstack'
+title: "we're going with openstack"
 author: jpr
 layout: post
 permalink: /2013/03/were-going-with-openstack/

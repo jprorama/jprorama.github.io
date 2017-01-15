@@ -1,5 +1,5 @@
 ---
-title: 'it&#8217;s time to reboot'
+title: "it's time to reboot"
 author: jpr
 layout: post
 permalink: /2008/03/its-time-to-reboot/

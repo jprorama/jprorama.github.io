@@ -1,5 +1,5 @@
 ---
-title: 'One size doesn&#8217;t fit all'
+title: "One size doesn't fit all"
 author: jpr
 layout: post
 permalink: /2007/07/one-size-doesnt-fit-all/
