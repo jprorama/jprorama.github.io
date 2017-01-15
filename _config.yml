@@ -16,9 +16,9 @@
 title: Platforms, Research, and Playgrounds
 email: jprorama@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm an HPC and cloud architect builing computing environments for science.
+  My research interests include AI and creating virtual worlds that provide a spatial framework for improved recall.
+  I enjoy music, a good drink, and exploring the IoT.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jprorama.github.io" # the base hostname & protocol for your site
 twitter_username: jprorama
